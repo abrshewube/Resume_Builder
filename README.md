@@ -35,6 +35,3 @@ npm run client
 </div>
 
 
-## Demo :
-
-Click [this](https://youtu.be/JkcP06CYVpc) link to see the demo.
